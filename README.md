@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-method-that-takes-a-collection-of-string-objects
+<br>
+Create a method that takes a Collection of String objects (this must accept any type of collection, not just a specific implementation) and returns the longest of the Strings beginning with the character ‘M’ (uppercase only). Any String that does not begin with ‘M’ should be ignored. If the collection does not contain any String objects beginning with the character ‘M’, return null.
